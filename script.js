@@ -209,7 +209,7 @@ var newnewtl = gsap.timeline({
     end: "5% 60%",
     scrub: 1,
     duration: 1,
-    markers: true,
+    // markers: true,
   },
 });
 newnewtl.to(".three", {
