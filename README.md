@@ -1,2 +1,2 @@
 # fanta
-This is for my youtube channel tutorial.
+Inspired by Gravity coding
